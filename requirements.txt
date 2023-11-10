@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+googlemaps
+python-decouple
+opencv-python
+matplotlib
+numpy
+
+# streamlit
